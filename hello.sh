@@ -1,2 +1,0 @@
-#Testing
-echo "Hello Worl"
