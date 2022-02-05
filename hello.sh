@@ -1,2 +1,2 @@
 #Testing
-echo "Hello Worl"
+echo "Hello World"
